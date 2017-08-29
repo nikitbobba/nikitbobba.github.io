@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://nikitbobba.github.io/</loc>
+    <lastmod>2017-08-24T13:01:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/post/second-post/</loc>
+    <lastmod>2017-08-24T13:01:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/post/first-post/</loc>
+    <lastmod>2017-08-09T12:01:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/blog/third/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/blog/first/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitbobba.github.io/blog/second/</loc>
+    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
+  </url>
+  
+</urlset>

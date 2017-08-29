@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coderag-rsses on Nikit Bobba</title>
+    <link>https://nikitbobba.github.io/coderag/index.xml</link>
+    <description>Recent content in Coderag-rsses on Nikit Bobba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://nikitbobba.github.io/coderag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CodeRag</title>
+      <link>https://nikitbobba.github.io/coderag/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://nikitbobba.github.io/coderag/</guid>
+      <description>&lt;p&gt;Coming Soon!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
