@@ -6,18 +6,8 @@
     <description>Recent content on Nikit Bobba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Aug 2017 13:01:27 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 12:01:49 +0530</lastBuildDate>
     <atom:link href="https://nikitbobba.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>second post</title>
-      <link>https://nikitbobba.github.io/post/second-post/</link>
-      <pubDate>Thu, 24 Aug 2017 13:01:27 +0530</pubDate>
-      
-      <guid>https://nikitbobba.github.io/post/second-post/</guid>
-      <description>&lt;p&gt;This is the Second Post. A test to see how it looks.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>First Post</title>
@@ -25,9 +15,45 @@
       <pubDate>Wed, 09 Aug 2017 12:01:49 +0530</pubDate>
       
       <guid>https://nikitbobba.github.io/post/first-post/</guid>
-      <description>&lt;p&gt;#Hello!&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;
 
 &lt;p&gt;Welcome to my blog. This is my first post. Hopefully there will be more content that will interest you when you check back.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://nikitbobba.github.io/experience/</link>
+      <pubDate>Tue, 04 Jul 2017 22:55:05 -0400</pubDate>
+      
+      <guid>https://nikitbobba.github.io/experience/</guid>
+      <description>
+
+&lt;p&gt;&lt;center&gt;&lt;img style=&#34;float :center;&#34; src=&#34;http://www.wizely.in/img/wizely.png&#34; height=&#34;60&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;center-wizely-software-engineering-intern-br-center&#34;&gt;&lt;center&gt; Wizely | Software Engineering Intern &lt;/br&gt; &lt;/center&gt;&lt;/h3&gt;
+
+&lt;h4 id=&#34;center-bangalore-india-summer-2017-center&#34;&gt;&lt;center&gt; Bangalore, India | Summer 2017 &lt;/center&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;center&gt;Incoming intern @ wizely.in&lt;/center&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img style=&#34;float :center;&#34; src=&#34;https://cellworks.life/themes/custom/cellworkswebsitedpthemevone/images/cellworks-logo.svg&#34; width=&#34;600&#34; height=&#34;50&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;center-cellworks-software-development-intern-br-center&#34;&gt;&lt;center&gt; CellWorks | Software Development Intern &lt;/br&gt; &lt;/center&gt;&lt;/h3&gt;
+
+&lt;h4 id=&#34;center-bangalore-india-summer-2016-center&#34;&gt;&lt;center&gt; Bangalore, India | Summer 2016 &lt;/center&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;center&gt;Cellworks has branched me into the world of HealthTech. I worked with an Oncologist and a Software Engineer to create several software specificatons using Python for the company.&lt;/center&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img id=&#34;mitra-logo&#34; style=&#34;float :center;&#34;src=&#34;https://sandscapitalventures.com/wp-content/uploads/2017/01/Logo-Mitra-Biotech.png&#34; width=&#34;425&#34; height=&#34;65&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;center-mitra-biotech-summer-research-assistant-br-center&#34;&gt;&lt;center&gt; Mitra Biotech | Summer Research Assistant &lt;/br&gt; &lt;/center&gt;&lt;/h3&gt;
+
+&lt;h4 id=&#34;center-bangalore-india-summer-2015-summer-2014-center&#34;&gt;&lt;center&gt; Bangalore, India | Summer 2015, Summer 2014 &lt;/center&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;center&gt; I worked at Mitra Biotech over the summers of 2015 and 2014. I spent my days in the lab under the supervision of Dr. Saravanan T. Recently, Mitra Biotech just raised $27.4 million. &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -58,26 +84,6 @@
       <description>&lt;p&gt;&lt;strong&gt;tl;dr: I&amp;rsquo;m learning the ins and outs of Artificial Intelligence in case Skynet ever becomes a reality.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I am a rising junior at Northwestern University studying Computer Science and Cognitive Science. I am an aspiring software developer with a passion for artificial intelligence and game design. I am interested in learning more about logical reasoning, perception, and Game AI to expand the possibilities of creative storytelling through gaming.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://nikitbobba.github.io/experience/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://nikitbobba.github.io/experience/</guid>
-      <description>
-
-&lt;h3 id=&#34;center-cellworks-software-development-intern-br-center&#34;&gt;&lt;center&gt; CellWorks | Software Development Intern &lt;/br&gt; &lt;/center&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;center-bangalore-india-summer-2016-center-br&#34;&gt;&lt;center&gt; Bangalore, India | Summer 2016 &lt;/center&gt;&lt;/br&gt;&lt;/h4&gt;
-
-&lt;h3 id=&#34;center-mitra-biotech-summer-research-assistant-br-center&#34;&gt;&lt;center&gt; Mitra Biotech | Summer Research Assistant &lt;/br&gt; &lt;/center&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;center-bangalore-india-summer-2015-summer-2014-center&#34;&gt;&lt;center&gt; Bangalore, India | Summer 2015, Summer 2014 &lt;/center&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;center&gt; I worked at Mitra Biotech over the summers of 2015 and 2014. I spent my days in the lab under the supervision of Dr. Saravanan T. Recently, Mitra Biotech just raised $27.4 million. &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
