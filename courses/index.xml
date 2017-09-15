@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses-rsses on Nikit Bobba</title>
+    <link>https://nikitbobba.github.io/courses/index.xml</link>
+    <description>Recent content in Courses-rsses on Nikit Bobba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Sep 2017 10:39:59 +0530</lastBuildDate>
+    <atom:link href="https://nikitbobba.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Relevant Coursework</title>
+      <link>https://nikitbobba.github.io/courses/</link>
+      <pubDate>Mon, 04 Sep 2017 10:39:59 +0530</pubDate>
+      
+      <guid>https://nikitbobba.github.io/courses/</guid>
+      <description>
+
+&lt;h3 id=&#34;center-some-coursework-i-have-take-so-far-br-center&#34;&gt;&lt;center&gt; Some coursework I have take so far:&lt;/br&gt; &lt;/center&gt;&lt;/h3&gt;
+
+&lt;h4 id=&#34;center-computer-science-br-center&#34;&gt;&lt;center&gt; Computer Science &lt;/br&gt; &lt;/center&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;center&gt;Fundamentals of Programming I &amp;amp;&amp;amp; II&lt;/br&gt;
+Computer Systems &lt;/br&gt;
+Data Structures &amp;amp; Algorithms&lt;/br&gt;
+Human Computer Interaction&lt;/br&gt;
+Game Design and Development&lt;/br&gt;
+Artificial Intelligence Programming&lt;/br&gt;
+Databases (Winter 2018)&lt;/br&gt;
+Networking (Winter 2018)&lt;/br&gt;
+Game Development Studio (Winter 2018)&lt;/br&gt;
+Machine Learning (Spring 2018)&lt;/br&gt;
+Intro to Artificial Intelligence (Spring 2018)&lt;/br&gt;
+Special Topics in Game AI (Spring 2018)&lt;/br&gt;
+Computational Linguistics (Spring 2018)&lt;/br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;cognitive-science-br&#34;&gt;Cognitive Science&lt;/br&gt;&lt;/h4&gt;
+
+&lt;p&gt;Neuroscience&lt;/br&gt;
+Language and the Brain&lt;/br&gt;
+Genetics and Molecular Biology&lt;/br&gt;
+Physiology&lt;/br&gt;
+Cognitive Modelling&lt;/br&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
