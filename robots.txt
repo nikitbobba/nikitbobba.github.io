@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nikitbobba.github.io/sitemap.xml
