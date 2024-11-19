@@ -15,9 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Nikit. I graduated from [Northwestern University](https://www.northwestern.edu/) where I studied [Cognitive Science](https://cogsci.northwestern.edu/) and [Computer Science](https://www.mccormick.northwestern.edu/computer-science/). [subreddit](http://reddit.com). 
+Hi! I'm Nikit. I graduated from [Northwestern University](https://www.northwestern.edu/) where I studied [Cognitive Science](https://cogsci.northwestern.edu/) and [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
 
-### Experience   
+_________________________________________________________________________________________________________
+
+### experience  
 
 **Plot**  
 2023 - Present
