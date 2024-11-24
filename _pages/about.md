@@ -30,3 +30,11 @@ ________________________________________________________________________________
 
 **Amazon Web Services (AWS)**  
 *2019 - 2021*  
+
+_________________________________________________________________________________________________________
+
+### Research  
+
+**Investigating Systematic Bias in Text Generation Models**
+*Supervised by [Doug Downey](https://users.cs.northwestern.edu/~ddowney/)*
+[Code](https://github.com/nikitbobba/Debate-Argument-Prediction)
