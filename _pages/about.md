@@ -19,7 +19,7 @@ Hi! I'm Nikit. I graduated from [Northwestern University](https://www.northweste
 
 _________________________________________________________________________________________________________
 
-### experience  
+### Experience  
 
 **Plot**  
 2023 - Present
