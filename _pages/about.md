@@ -16,16 +16,17 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Hi! I'm Nikit. I graduated from [Northwestern University](https://www.northwestern.edu/) where I studied [Cognitive Science](https://cogsci.northwestern.edu/) and [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
+I’m currently working as an AI Engineer at Plot, a creative operations platform. Previously, I worked on the recommendation engine powering Amazon Style. Before Amazon Style, I was a Software Engineer at AWS.
 
 _________________________________________________________________________________________________________
 
 ### Experience  
 
 **Plot**  
-2023 - Present
+*2023 - Present*  
 
+**Amazon Style**  
+*2021 - 2023*  
 
-
-**Amazon**  
-
-
+**Amazon Web Services (AWS)**  
+*2019 - 2021*  
