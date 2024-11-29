@@ -35,8 +35,7 @@ ________________________________________________________________________________
 
 ### Research  
 
-**Investigating Systematic Bias in Text Generation Models**
-
+**Investigating Systematic Bias in Text Generation Models**  
 *Supervised by [Doug Downey](https://users.cs.northwestern.edu/~ddowney/)*
 [Code](https://github.com/nikitbobba/Debate-Argument-Prediction)
 
@@ -45,14 +44,12 @@ ________________________________________________________________________________
 
 ### Select Projects  
 
-**Lens Smear Detection**
-
+**Lens Smear Detection**  
 An application that detects any smear on LIDAR images using computer vision fundamentals
 [Code](https://github.com/nikitbobba/lens-smear-detection)
 
 
-**StarCats**
-
+**StarCats**  
 A multi-level space shooter built in Unity and C#
 [Code](https://github.com/nikitbobba/StarCats)
 
