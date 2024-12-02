@@ -57,6 +57,7 @@ ________________________________________________________________________________
 
 **Investigating Systematic Bias in Text Generation Models**  
 *Supervised by [Doug Downey](https://users.cs.northwestern.edu/~ddowney/)*  
+I explored  systematic biases in text generation models when exposed to a balanced set of information by training language models on controversial debate topics with clear pro/against stances such as China’s one-child policy, violence in video games and religion versus atheism.  
 [Code](https://github.com/nikitbobba/Debate-Argument-Prediction)
 
 
