@@ -17,6 +17,12 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I'm Nikit. I graduated from [Northwestern University](https://www.northwestern.edu/) where I studied [Cognitive Science](https://cogsci.northwestern.edu/) and [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) with a concentration in Artificial Intelligence. I'm an experienced Software Engineer with expertise in building recommendation engines, data pipelines, analytics platforms, and search systems. Currently, I provide consultancy services to small businesses in India, helping them leverage AI tools and frameworks. Previously, I was the founding Machine Learning Engineer at Plot, a creative operations platform. Before that, I contributed to the recommendation engine for Amazon Style and worked as a Software Engineer at AWS.
 
+Feel free to reach out through any of the following:
+
+[Email](mailto:nikitsbobba@gmail.com)
+[Linkedin](https://www.linkedin.com/in/nikitbobba/)  
+[X](https://x.com/nikitbobba)
+
 
 _________________________________________________________________________________________________________
 
@@ -73,4 +79,13 @@ An application that detects any smear on LIDAR images using computer vision fund
 **StarCats**  
 A multi-level space shooter built in Unity and C#  
 [Code](https://github.com/nikitbobba/StarCats)
+
+_________________________________________________________________________________________________________
+
+### Readings
+
+A collection of my favorite reads
+
+* [Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration](https://www.pnas.org/doi/10.1073/pnas.2120510119)  
+* [Using Natural Language Processing to Analyze Political Party Manifestos from New Zealand](https://www.mdpi.com/2078-2489/14/3/152)
 
